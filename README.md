@@ -9,6 +9,6 @@ Hi, Iam Venugopal
 Profession : Software Engineer 
 
 Problem Solving :
-Solved 100+ problems on GeeksForgeeks
+Solved 200+ problems on GeeksForgeeks
 
 Experienced working professional with more than a year of experience. Looking an opportunity where i can enhance my skills more and I'm interested in algorithmic problem-solving and and look forward to working as a software developer.
